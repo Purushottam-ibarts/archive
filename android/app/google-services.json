@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "572081542122",
+    "project_id": "dianclub-83179",
+    "storage_bucket": "dianclub-83179.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572081542122:android:04107ae05af76089159893",
+        "android_client_info": {
+          "package_name": "com.DianClubs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572081542122-il9eh37i24gtv2l8jugrvimssq8gv6vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFGI6zP8WbNl_ErRam7jMJsgnEda1bIDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572081542122-il9eh37i24gtv2l8jugrvimssq8gv6vl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "572081542122-rb2irm0ol96jrri99n38710uuabhf7ah.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apps.dian.Dian",
+                "app_store_id": "6467105367"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

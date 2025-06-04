@@ -1,0 +1,1 @@
+"react-native-iap": "^12.15.7",

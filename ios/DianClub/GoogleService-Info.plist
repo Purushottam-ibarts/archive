@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>922254907050-2vratur39sgrvdg6vip2g5cv0u4ha13e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.922254907050-2vratur39sgrvdg6vip2g5cv0u4ha13e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAHYFYMRr8jroUdU5z-ehoEy0snf2wpc-E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>922254907050</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.DianClub</string>
+	<key>PROJECT_ID</key>
+	<string>dianclub-f2481</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dianclub-f2481.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:922254907050:ios:403b7e8218fc04ae45a2d3</string>
+</dict>
+</plist>
