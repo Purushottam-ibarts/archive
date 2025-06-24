@@ -66,7 +66,7 @@ const Assist: React.FC = () => {
   return (
     <>
     <LinkButton/>
-    {/* { user.privilege < 2 && <LinkButton/> }
+    { user.privilege < 2 && <LinkButton/> }
       <PageLayout containerStyles={styles.container} 
         flatList={{
           data: data,
@@ -85,7 +85,7 @@ const Assist: React.FC = () => {
           <Text style={styles.text}>New Content Released Every Month</Text>
         </TouchableOpacity>,
         }}
-      /> */}
+      />
     </>
   )
 }

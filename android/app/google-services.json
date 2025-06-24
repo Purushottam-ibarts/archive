@@ -7,12 +7,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:572081542122:android:04107ae05af76089159893",
+        "mobilesdk_app_id": "1:572081542122:android:48fb70b4595952e6159893",
         "android_client_info": {
           "package_name": "com.DianClubs"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "572081542122-8vdel6co008r20475qri1dkul2l45ja3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DianClubs",
+            "certificate_hash": "34d36d91800dc23cb49b32a08b727a8a586bff58"
+          }
+        },
         {
           "client_id": "572081542122-il9eh37i24gtv2l8jugrvimssq8gv6vl.apps.googleusercontent.com",
           "client_type": 3
@@ -20,7 +28,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBFGI6zP8WbNl_ErRam7jMJsgnEda1bIDA"
+          "current_key": "AIzaSyBMrdevjWkmpgXDQKiOLeOwPNNmW-f4OlM"
         }
       ],
       "services": {
