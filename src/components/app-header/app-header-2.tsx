@@ -47,7 +47,7 @@ const AppHeaderOne: React.FC<IProps> = ({ headerTitle, isBack }) => {
     GoogleSignin.configure({
       scopes: ["email"],
       webClientId:
-        "922254907050-2vratur39sgrvdg6vip2g5cv0u4ha13e.apps.googleusercontent.com",
+        "572081542122-il9eh37i24gtv2l8jugrvimssq8gv6vl.apps.googleusercontent.com",
       offlineAccess: true,
     });
   }, []);
