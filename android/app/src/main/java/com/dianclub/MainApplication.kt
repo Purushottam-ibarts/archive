@@ -1,4 +1,4 @@
-package com.dianclub
+package com.DianClubs
 
 import android.app.Application
 import com.facebook.react.PackageList

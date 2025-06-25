@@ -1,4 +1,4 @@
-package com.dianclub
+package com.DianClubs
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
