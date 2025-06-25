@@ -14,7 +14,7 @@ android {
     ndkVersion rootProject.ext.ndkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
-    namespace "com.dianclub"
+    namespace "com.DianClubs"
 
      compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8  // or VERSION_11, VERSION_17
@@ -22,12 +22,17 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.dianclub"
+        applicationId "com.DianClubs"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
         missingDimensionStrategy "store", "play"
+        buildConfigField "boolean", "IS_NEW_ARCHITECTURE_ENABLED", "false"
+        buildConfigField "boolean", "IS_HERMES_ENABLED", "true"
+    }
+    buildFeatures {
+        buildConfig true
     }
     signingConfigs {
         debug {
